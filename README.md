@@ -3,7 +3,10 @@ This is the loading screen
 
 ![Screenshot_20210331-212901](https://user-images.githubusercontent.com/62157938/114399261-63bc5f80-9ba9-11eb-8aa3-efd6bef4c99d.jpg)
 
+This is the Default homepage of my app. it contains the time of a city called Berlin and the time of that city.and an icon button, Edit Location
 ![Screenshot_20210331-212720](https://user-images.githubusercontent.com/62157938/114399231-5a32f780-9ba9-11eb-9e8c-8b9b2c6d4460.jpg)
+
+
 ![Screenshot_20210331-212730](https://user-images.githubusercontent.com/62157938/114399243-5ef7ab80-9ba9-11eb-8d1e-ec9bea1a3363.jpg)
 ![Screenshot_20210331-212740](https://user-images.githubusercontent.com/62157938/114399252-6028d880-9ba9-11eb-9e0a-d25f79e938d6.jpg)
 
