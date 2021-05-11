@@ -5,19 +5,28 @@ This is the loading screen
 
 
 This is the Default homepage of my app. it contains the time of a city called Berlin and the time of that city and an icon button, Edit Location
+
+
 ![Screenshot_20210331-212720](https://user-images.githubusercontent.com/62157938/114399231-5a32f780-9ba9-11eb-9e8c-8b9b2c6d4460.jpg)
 
 
 When the icon button is pressed it bring you to this next screen. This screen cotains the different cities in the World.You choose a city and it is displayed on the Homepage
+
 
 ![Screenshot_20210412-112220](https://user-images.githubusercontent.com/62157938/114399268-66b75000-9ba9-11eb-95b3-ad3a033b9f66.jpg)
 
 More Screenshots on the time Displayed on Various Cities.
 And on Daytime a day picture is displayed on the background and also at ight the night image is Displayed on the Background.
 
+
+
 ![Screenshot_20210331-212740](https://user-images.githubusercontent.com/62157938/114399252-6028d880-9ba9-11eb-9e0a-d25f79e938d6.jpg)
 
+
+
 ![Screenshot_20210412-112147](https://user-images.githubusercontent.com/62157938/114399264-6454f600-9ba9-11eb-9c72-e07d2acec75d.jpg)
+
+
 
 ![Screenshot_20210412-112234](https://user-images.githubusercontent.com/62157938/114399277-68811380-9ba9-11eb-9fb8-ce120ff8141b.jpg)
 
